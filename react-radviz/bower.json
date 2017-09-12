@@ -1,0 +1,29 @@
+{
+  "name": "react-radviz",
+  "version": "0.0.0",
+  "description": "radviz",
+  "main": "dist/react-radviz.min.js",
+  "homepage": "https://github.com/monil-shah/react-Radviz",
+  "authors": [
+    "Monil Shah"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
